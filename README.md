@@ -62,7 +62,13 @@ Map.setCenter(71.2, 36, 9);
 Image:
 ![blend_ex_1](https://user-images.githubusercontent.com/1250693/155811215-dbba64db-30ab-4fcf-9472-be7425a99e54.png)
 
+### Some other examples
 
+NLCD over hillshade, in northern New Mexico (using blend.multiply):
+![nlcd_hillshade](https://user-images.githubusercontent.com/1250693/156436778-ae20e293-cf88-4448-b62b-82617bf3b541.png)
+
+Elevation over slope, using blend.dodge (Grand Canyon):
+![gc](https://user-images.githubusercontent.com/1250693/156437236-14159e49-3d80-46de-a8b6-8531ba57a826.png)
 
 ## License
 
