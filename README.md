@@ -33,6 +33,8 @@ Here is an example blend operation and output.
 
 Code:
 ```javascript
+// First, add the module to your account by going to https://code.earthengine.google.com/?accept_repo=users/jja/public
+
 // Load the module
 var blend = require('users/jja/public:blend.js');
 
